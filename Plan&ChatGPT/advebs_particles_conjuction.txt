@@ -1,0 +1,352 @@
+====================================================================
+JAPANESE GRAMMAR — DEEP DIVE INTO CORE WORD TYPES
+(Pronouns • Helping verbs • Particles • Adverbs • Conjunctions)
+====================================================================
+
+--------------------------------------------------------------------
+0) BIG PICTURE (DO NOT SKIP)
+--------------------------------------------------------------------
+English builds meaning using:
+• helper verbs
+• fixed pronouns
+• prepositions
+
+Japanese builds meaning using:
+• particles
+• verb conjugation
+• context
+
+Many English categories DO NOT exist as separate words in Japanese.
+
+====================================================================
+1) PRONOUNS (I / YOU / HE / SHE / WE / THEY)
+====================================================================
+
+DEFINITION:
+Pronouns replace nouns (I, you, he, she).
+
+JAPANESE REALITY:
+• Pronouns exist
+• BUT are OPTIONAL
+• Often DROPPED if context is clear
+
+------------------------------------------------
+I / ME / MY / MINE
+------------------------------------------------
+
+わたし = I / me
+
+わたし は がくせい です。
+I am a student.
+
+これは わたし の ほん です。
+This is my book.
+
+その ほん は わたし の です。
+That book is mine. (object known)
+
+これは わたし の もの です。
+This is mine. (object unknown)
+
+せんせい は わたし に ほん を くれました。
+The teacher gave me a book.
+
+------------------------------------------------
+YOU / YOUR / YOURS
+------------------------------------------------
+
+あなた = you (polite but distant)
+
+あなた は がくせい です。
+You are a student.
+
+これは あなた の ほん です。
+This is your book.
+
+その ほん は あなた の です。
+That book is yours.
+
+せんせい は あなた に しつもん を しました。
+The teacher asked you a question.
+
+NATIVE JAPANESE (preferred):
+リハーンさん は がくせい です。
+(You) are a student.
+
+------------------------------------------------
+HE / SHE
+------------------------------------------------
+
+かれ = he
+かのじょ = she
+
+かれ は がくせい です。
+He is a student.
+
+かのじょ は せんせい です。
+She is a teacher.
+
+NATURAL JAPANESE (preferred):
+あの人 は がくせい です。
+That person is a student. (he/she)
+
+------------------------------------------------
+WE / THEY
+------------------------------------------------
+
+わたしたち は がくせい です。
+We are students.
+
+かれら は がくせい です。
+They are students.
+
+KEY RULE:
+If English REQUIRES a pronoun,
+Japanese often DROPS it.
+
+====================================================================
+2) HELPING VERBS (IS / AM / ARE / WAS / WERE)
+====================================================================
+
+ENGLISH:
+I am
+you are
+he is
+was / were
+
+JAPANESE:
+❌ NO verb "to be"
+✅ ONE copula: です
+
+------------------------------------------------
+AM / IS / ARE
+------------------------------------------------
+
+わたし は がくせい です。
+I am a student.
+
+かれ は いそがしい です。
+He is busy.
+
+------------------------------------------------
+WAS / WERE
+------------------------------------------------
+
+わたし は がくせい でした。
+I was a student.
+
+きのう は ひま でした。
+Yesterday was free.
+
+------------------------------------------------
+NEGATIVE
+------------------------------------------------
+
+がくせい じゃない です。
+(am/is not)
+
+がくせい じゃなかった です。
+(was not)
+
+IMPORTANT:
+Japanese does NOT change by person.
+です works for everyone.
+
+====================================================================
+3) HELPING VERBS (HAVE / HAS / HAD)
+====================================================================
+
+English:
+I have eaten
+I had eaten
+
+Japanese:
+❌ NO "have" helper
+✅ COMPLETION is shown by verb form
+
+------------------------------------------------
+PAST = COMPLETED
+------------------------------------------------
+
+ごはん を たべました。
+I ate / I have eaten.
+
+------------------------------------------------
+ONGOING STATE
+------------------------------------------------
+
+ごはん を たべて います。
+I am eating / I have been eating.
+
+KEY RULE:
+Japanese asks:
+"Is it completed or not?"
+
+NOT:
+"Is it present perfect?"
+
+====================================================================
+4) MODAL HELPERS (CAN / MUST / MIGHT / SHOULD)
+====================================================================
+
+English uses separate helper verbs.
+Japanese ATTACHES meaning to verbs.
+
+------------------------------------------------
+CAN
+------------------------------------------------
+
+たべられる
+= can eat
+
+にほんご が はなせます。
+I can speak Japanese.
+
+------------------------------------------------
+MUST / HAVE TO
+------------------------------------------------
+
+いかなければ なりません。
+must go
+
+しゅくだい を しなければ なりません。
+I must do homework.
+
+------------------------------------------------
+MIGHT / MAY
+------------------------------------------------
+
+あめ が ふる かも しれません。
+It might rain.
+
+------------------------------------------------
+SHOULD
+------------------------------------------------
+
+はやく ねた ほう が いい です。
+You should sleep early.
+
+====================================================================
+5) PARTICLES (REPLACE PREPOSITIONS)
+====================================================================
+
+DEFINITION:
+Particles show the ROLE of a word.
+
+ENGLISH:
+in / on / at / to / from / with
+
+JAPANESE:
+Particles AFTER nouns.
+
+------------------------------------------------
+は (topic)
+------------------------------------------------
+わたし は がくせい です。
+As for me, I am a student.
+
+------------------------------------------------
+を (object)
+------------------------------------------------
+ほん を よみます。
+I read a book.
+
+------------------------------------------------
+に (to / time / target)
+------------------------------------------------
+がっこう に いきます。
+I go to school.
+
+------------------------------------------------
+で (place of action)
+------------------------------------------------
+がっこう で べんきょう します。
+I study at school.
+
+------------------------------------------------
+から / まで
+------------------------------------------------
+いえ から がっこう まで いきます。
+I go from home to school.
+
+====================================================================
+6) ADVERBS (HERE / THERE / THIS / THAT / HOW)
+====================================================================
+
+------------------------------------------------
+PLACE
+------------------------------------------------
+ここ   = here
+そこ   = there (near you)
+あそこ = over there
+どこ   = where
+
+トイレ は どこ です か。
+Where is the toilet?
+
+------------------------------------------------
+THIS / THAT (OBJECTS)
+------------------------------------------------
+これ = this
+それ = that
+あれ = that (far)
+
+これは ペン です。
+This is a pen.
+
+------------------------------------------------
+MANNER / DEGREE
+------------------------------------------------
+とても = very
+すこし = a little
+よく   = often
+もう   = already
+まだ   = still / not yet
+
+よく にほんご を べんきょう します。
+I often study Japanese.
+
+====================================================================
+7) CONJUNCTIONS (AND / BUT / SO / BECAUSE)
+====================================================================
+
+------------------------------------------------
+WORD CONJUNCTIONS
+------------------------------------------------
+
+そして = and
+でも   = but
+だから = so
+しかし = however
+
+あつい です。だから、みず を のみます。
+It is hot, so I drink water.
+
+------------------------------------------------
+VERB CONNECTING (MORE IMPORTANT)
+------------------------------------------------
+
+て-form = and / then / because
+
+ごはん を たべて、ねました。
+I ate and slept.
+
+====================================================================
+FINAL MASTER SUMMARY
+====================================================================
+
+English:
+• pronouns mandatory
+• helper verbs everywhere
+• prepositions before nouns
+
+Japanese:
+• pronouns optional
+• helpers attach to verbs
+• particles after nouns
+• context does the work
+
+If you stop translating English grammar,
+Japanese becomes SIMPLE.
+====================================================================
+v

@@ -1,0 +1,490 @@
+
+VERBS — COMPLETE GUIDE (Sensei mode: clear, simple, many examples, diagrams)
+
+------------------------------------------------------------
+0) QUICK QUESTIONS (to orient your brain)
+------------------------------------------------------------
+• Does the word show an ACTION? (run, eat, write)
+• Does it show a STATE/BEING? (am, is, seem, belong)
+• Does it show something HAPPENING to the subject? (was broken)
+
+If YES → it is probably a VERB.
+
+------------------------------------------------------------
+1) DEFINITION
+------------------------------------------------------------
+A VERB is a word that tells:
+• what someone/something DOES,
+• what someone/something IS,
+• or what HAPPENS to someone/something.
+
+Core idea (80/20):
+VERB = ACTION or STATE.
+
+Examples:
+• Action: run, read, jump, build
+• State: am, is, feel, seem, exist
+
+------------------------------------------------------------
+2) BIG MAP — TYPES OF VERBS (ASCII TREE)
+------------------------------------------------------------
+
+VERB
+├── MAIN (LEXICAL)
+│   ├── Action
+│   │   ├── Transitive
+│   │   └── Intransitive
+│   ├── Linking
+│   └── Stative
+└── HELPING (AUXILIARY)
+    ├── Primary (be, have, do)
+    └── Modal (can, may, must, etc.)
+
+------------------------------------------------------------
+3) MAIN (LEXICAL) VERBS
+------------------------------------------------------------
+
+========================
+A) ACTION VERBS
+========================
+They show DOING.
+
+Examples:
+• She runs.
+• They built a bridge.
+• I write daily.
+• The dog barked.
+• We are studying.
+• He jumps high.
+
+----------------------------------
+Transitive (needs an object)
+----------------------------------
+Pattern: SUBJECT + VERB + OBJECT
+
+Examples:
+• She wrote a letter.
+• They built a house.
+• He kicked the ball.
+• I solved the problem.
+
+----------------------------------
+Intransitive (no object)
+----------------------------------
+Pattern: SUBJECT + VERB
+
+Examples:
+• She slept.
+• The baby cried.
+• They arrived.
+• He laughed.
+
+========================
+B) LINKING VERBS
+========================
+They CONNECT the subject to a description.
+They do not show action.
+
+Common linking verbs:
+am, is, are, was, were, seem, become, appear, feel (when meaning “state”)
+
+Examples:
+• She is smart.
+• They are happy.
+• The soup smells good.
+• He became a doctor.
+• It seems difficult.
+
+ASCII picture:
+
+SUBJECT ----(linking verb)----> DESCRIPTION
+
+========================
+C) STATIVE VERBS
+========================
+They describe states, thoughts, feelings — NOT actions.
+
+Do NOT usually take “continuous” form.
+
+Common stative verbs:
+know, believe, like, love, hate, own, belong, understand, remember
+
+Examples:
+• I know the answer.
+• She believes you.
+• They own a car.
+• This book belongs to me.
+• He understands the topic.
+
+(WRONG) I am knowing → (CORRECT) I know
+
+------------------------------------------------------------
+4) HELPING (AUXILIARY) VERBS
+------------------------------------------------------------
+They help main verbs to show:
+• tense
+• voice
+• questions
+• negatives
+
+========================
+A) PRIMARY AUXILIARIES
+========================
+
+(1) BE — am, is, are, was, were, being, been
+Used for CONTINUOUS and PASSIVE.
+
+Examples (continuous):
+• I am learning.
+• She was cooking.
+• They are playing.
+
+Examples (passive):
+• The car was repaired.
+• The work is done.
+
+(2) HAVE — have, has, had
+Used for PERFECT tenses.
+
+Examples:
+• I have finished.
+• She has eaten.
+• They had left.
+
+(3) DO — do, does, did
+Used for questions, negatives, emphasis.
+
+Examples:
+• Do you like tea?
+• She does not agree.
+• I did finish the task.
+
+========================
+B) MODAL AUXILIARIES
+========================
+Show ability, permission, possibility, obligation.
+
+Common modals:
+can, could, may, might, must, shall, should, will, would
+
+Examples:
+• I can swim.
+• You should study.
+• She may come.
+• They must leave.
+• We will help.
+
+------------------------------------------------------------
+5) MASTER TREE — EVERYTHING TOGETHER
+------------------------------------------------------------
+
+VERBS
+├── MAIN (LEXICAL)
+│   ├── ACTION
+│   │   ├── Transitive (needs object)
+│   │   │   ├── He wrote a letter
+│   │   │   └── They built a bridge
+│   │   └── Intransitive (no object)
+│   │       ├── She slept
+│   │       └── They arrived
+│   ├── LINKING
+│   │   ├── She is tired
+│   │   └── He became angry
+│   └── STATIVE
+│       ├── I know
+│       ├── She loves music
+│       └── This belongs to me
+└── HELPING (AUXILIARY)
+    ├── PRIMARY
+    │   ├── BE: am/is/are (I am learning)
+    │   ├── HAVE: have/has/had (She has eaten)
+    │   └── DO: do/does/did (Do you know?)
+    └── MODAL
+        ├── can (I can swim)
+        ├── should (You should sleep)
+        ├── must (They must go)
+        └── will (We will try)
+
+------------------------------------------------------------
+6) COMMON MISTAKES (FIX THEM NOW)
+------------------------------------------------------------
+❌ She are happy
+✔ She is happy
+
+❌ He did not went
+✔ He did not go
+
+❌ I am knowing this
+✔ I know this
+
+❌ They was playing
+✔ They were playing
+
+------------------------------------------------------------
+7) NEXT — HOW TO PROCEED
+------------------------------------------------------------
+1) Identify verb in every sentence.
+2) Ask: ACTION or STATE?
+3) If action: transitive or intransitive?
+4) If helper: primary or modal?
+
+Practice daily with real examples.
+
+------------------------------------------------------------
+8) EXPECTED DOUBTS (NORMAL)
+------------------------------------------------------------
+• Difference between “do” and “did”
+• When to use “have been / had been”
+• Passive vs active
+• Continuous vs simple tense
+• “To be” vs action verbs
+
+We can cover each next — step by step.
+
+Imp for Understanding 
+です　
+でしたVERBS — COMPLETE GUIDE (Sensei mode: clear, simple, many examples, diagrams)
+
+------------------------------------------------------------
+0) QUICK QUESTIONS (to orient your brain)
+------------------------------------------------------------
+• Does the word show an ACTION? (run, eat, write)
+• Does it show a STATE/BEING? (am, is, seem, belong)
+• Does it show something HAPPENING to the subject? (was broken)
+
+If YES → it is probably a VERB.
+
+------------------------------------------------------------
+1) DEFINITION
+------------------------------------------------------------
+A VERB is a word that tells:
+• what someone/something DOES,
+• what someone/something IS,
+• or what HAPPENS to someone/something.
+
+Core idea (80/20):
+VERB = ACTION or STATE.
+
+Examples:
+• Action: run, read, jump, build
+• State: am, is, feel, seem, exist
+
+------------------------------------------------------------
+2) BIG MAP — TYPES OF VERBS (ASCII TREE)
+------------------------------------------------------------
+
+VERB
+├── MAIN (LEXICAL)
+│   ├── Action
+│   │   ├── Transitive
+│   │   └── Intransitive
+│   ├── Linking
+│   └── Stative
+└── HELPING (AUXILIARY)
+    ├── Primary (be, have, do)
+    └── Modal (can, may, must, etc.)
+
+------------------------------------------------------------
+3) MAIN (LEXICAL) VERBS
+------------------------------------------------------------
+
+========================
+A) ACTION VERBS
+========================
+They show DOING.
+
+Examples:
+• She runs.
+• They built a bridge.
+• I write daily.
+• The dog barked.
+• We are studying.
+• He jumps high.
+
+----------------------------------
+Transitive (needs an object)
+----------------------------------
+Pattern: SUBJECT + VERB + OBJECT
+
+Examples:
+• She wrote a letter.
+• They built a house.
+• He kicked the ball.
+• I solved the problem.
+
+----------------------------------
+Intransitive (no object)
+----------------------------------
+Pattern: SUBJECT + VERB
+
+Examples:
+• She slept.
+• The baby cried.
+• They arrived.
+• He laughed.
+
+========================
+B) LINKING VERBS
+========================
+They CONNECT the subject to a description.
+They do not show action.
+
+Common linking verbs:
+am, is, are, was, were, seem, become, appear, feel (when meaning “state”)
+
+Examples:
+• She is smart.
+• They are happy.
+• The soup smells good.
+• He became a doctor.
+• It seems difficult.
+
+ASCII picture:
+
+SUBJECT ----(linking verb)----> DESCRIPTION
+
+========================
+C) STATIVE VERBS
+========================
+They describe states, thoughts, feelings — NOT actions.
+
+Do NOT usually take “continuous” form.
+
+Common stative verbs:
+know, believe, like, love, hate, own, belong, understand, remember
+
+Examples:
+• I know the answer.
+• She believes you.
+• They own a car.
+• This book belongs to me.
+• He understands the topic.
+
+(WRONG) I am knowing → (CORRECT) I know
+
+------------------------------------------------------------
+4) HELPING (AUXILIARY) VERBS
+------------------------------------------------------------
+They help main verbs to show:
+• tense
+• voice
+• questions
+• negatives
+
+========================
+A) PRIMARY AUXILIARIES
+========================
+
+(1) BE — am, is, are, was, were, being, been
+Used for CONTINUOUS and PASSIVE.
+
+Examples (continuous):
+• I am learning.
+• She was cooking.
+• They are playing.
+
+Examples (passive):
+• The car was repaired.
+• The work is done.
+
+(2) HAVE — have, has, had
+Used for PERFECT tenses.
+
+Examples:
+• I have finished.
+• She has eaten.
+• They had left.
+
+(3) DO — do, does, did
+Used for questions, negatives, emphasis.
+
+Examples:
+• Do you like tea?
+• She does not agree.
+• I did finish the task.
+
+========================
+B) MODAL AUXILIARIES
+========================
+Show ability, permission, possibility, obligation.
+
+Common modals:
+can, could, may, might, must, shall, should, will, would
+
+Examples:
+• I can swim.
+• You should study.
+• She may come.
+• They must leave.
+• We will help.
+
+------------------------------------------------------------
+5) MASTER TREE — EVERYTHING TOGETHER
+------------------------------------------------------------
+
+VERBS
+├── MAIN (LEXICAL)
+│   ├── ACTION
+│   │   ├── Transitive (needs object)
+│   │   │   ├── He wrote a letter
+│   │   │   └── They built a bridge
+│   │   └── Intransitive (no object)
+│   │       ├── She slept
+│   │       └── They arrived
+│   ├── LINKING
+│   │   ├── She is tired
+│   │   └── He became angry
+│   └── STATIVE
+│       ├── I know
+│       ├── She loves music
+│       └── This belongs to me
+└── HELPING (AUXILIARY)
+    ├── PRIMARY
+    │   ├── BE: am/is/are (I am learning)
+    │   ├── HAVE: have/has/had (She has eaten)
+    │   └── DO: do/does/did (Do you know?)
+    └── MODAL
+        ├── can (I can swim)
+        ├── should (You should sleep)
+        ├── must (They must go)
+        └── will (We will try)
+
+------------------------------------------------------------
+6) COMMON MISTAKES (FIX THEM NOW)
+------------------------------------------------------------
+❌ She are happy
+✔ She is happy
+
+❌ He did not went
+✔ He did not go
+
+❌ I am knowing this
+✔ I know this
+
+❌ They was playing
+✔ They were playing
+
+------------------------------------------------------------
+7) NEXT — HOW TO PROCEED
+------------------------------------------------------------
+1) Identify verb in every sentence.
+2) Ask: ACTION or STATE?
+3) If action: transitive or intransitive?
+4) If helper: primary or modal?
+
+Practice daily with real examples.
+
+------------------------------------------------------------
+8) EXPECTED DOUBTS (NORMAL)
+------------------------------------------------------------
+• Difference between “do” and “did”
+• When to use “have been / had been”
+• Passive vs active
+• Continuous vs simple tense
+• “To be” vs action verbs
+
+We can cover each next — step by step.
+
+Imp for Understanding 
+です　
+でした
